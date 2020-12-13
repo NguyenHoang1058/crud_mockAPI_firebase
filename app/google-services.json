@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899261145290",
+    "project_id": "crudmockapi",
+    "storage_bucket": "crudmockapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899261145290:android:b0ea0096106c83b16e9433",
+        "android_client_info": {
+          "package_name": "com.oneg.android_mockapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899261145290-p52cda873akrh4d2s8fdgs6atgqgpekn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84pXH57FZtNBlgv1vWEcLe8YO33gFS0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899261145290-p52cda873akrh4d2s8fdgs6atgqgpekn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
